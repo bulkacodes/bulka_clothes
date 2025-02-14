@@ -6,7 +6,6 @@ This script allows players use clothes as item.
 
 
 ## Requirements
-- ESX Legacy
 - Ox Inventory
 - Ox Lib
 ## Installation
