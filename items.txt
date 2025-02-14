@@ -1,0 +1,133 @@
+['torso'] = {
+    label = 'Torso',
+    weight = 0.125,
+    stack = true,
+    close = true,
+    client = {
+        usetime = 0,
+        export = 'bulka_clothes.wearClothing'
+    }
+},
+
+['pants'] = {
+    label = 'Pants',
+    weight = 0.125,
+    stack = true,
+    close = true,
+    client = {
+        usetime = 0,
+        export = 'bulka_clothes.wearClothing'
+    }
+},
+
+['shoes'] = {
+    label = 'Shoes',
+    weight = 0.125,
+    stack = true,
+    close = true,
+    client = {
+        usetime = 0,
+        export = 'bulka_clothes.wearClothing'
+    }
+},
+
+['bracelet'] = {
+  label = 'Bracelet',
+  weight = 0.125,
+  stack = true,
+  close = true,
+  client = {
+      usetime = 0,
+      export = 'bulka_clothes.wearClothing'
+  }
+},
+
+['bag'] = {
+  label = 'Bag',
+  weight = 0.125,
+  stack = true,
+  close = true,
+  client = {
+      usetime = 0,
+      export = 'bulka_clothes.wearClothing'
+  }
+}
+
+['watch'] = {
+  label = 'Watch',
+  weight = 0.125,
+  stack = true,
+  close = true,
+  client = {
+      usetime = 0,
+      export = 'bulka_clothes.wearClothing'
+  }
+},
+
+['helmet'] = {
+  label = 'Helmet',
+  weight = 0.125,
+  stack = true,
+  close = true,
+  client = {
+      usetime = 0,
+      export = 'bulka_clothes.wearClothing'
+  }
+},
+
+['chain'] = {
+  label = 'Chain',
+  weight = 0.125,
+  stack = true,
+  close = true,
+  client = {
+      usetime = 0,
+      export = 'bulka_clothes.wearClothing'
+  }
+},
+
+
+['vest'] = {
+  label = 'Vest',
+  weight = 0.125,
+  stack = true,
+  close = true,
+  client = {
+      usetime = 0,
+      export = 'bulka_clothes.wearClothing'
+  }
+},
+
+['mask'] = {
+  label = 'Mask',
+  weight = 0.125,
+  stack = true,
+  close = true,
+  client = {
+      usetime = 0,
+      export = 'bulka_clothes.wearClothing'
+  }
+},
+
+
+['glasses'] = {
+  label = 'Glasses',
+  weight = 0.125,
+  stack = true,
+  close = true,
+  client = {
+      usetime = 0,
+      export = 'bulka_clothes.wearClothing'
+  }
+},
+
+['ears'] = {
+  label = 'Ears',
+  weight = 0.125,
+  stack = true,
+  close = true,
+  client = {
+      usetime = 0,
+      export = 'bulka_clothes.wearClothing'
+  }
+},
