@@ -1,9 +1,5 @@
 local function playClothingAnimation(lib, anim, duration, loop)
-    RequestAnimDict(lib)
-    while not HasAnimDictLoaded(lib) do
-        Citizen.Wait(10)
-    end
-    TaskPlayAnim(PlayerPedId(), lib, anim, 8.0, 3.0, duration, loop, 0, 0, 0, 0)
+    lib.playAnim(cache.ped, lib, anim, 8.0, 3.0, duration, loop, 0, 0, 0, 0)
 end
 
 exports('wearClothing', function(data, clothingData)
